@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad&display=swap');
+
+body{
+    font-family: 'Afacad', sans-serif;
+    margin: 20px;
+}
+label{
+    display: block;
+    margin-bottom: 8px;
+
+}
+input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+button{
+    cursor: pointer;
+    padding: 8px;
+    
+}
